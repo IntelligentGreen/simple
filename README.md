@@ -1,5 +1,5 @@
 # simple
 simply simple repository 
 created Tue, Aug 
-introducing Gatsby as a my tool.
+introducing Gatsby as my tool.
 
